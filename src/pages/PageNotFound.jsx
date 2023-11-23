@@ -1,12 +1,12 @@
 import PageNav from '../components/PageNav';
 
-const Product = () => {
+const PageNotFound = () => {
   return (
     <div>
       <PageNav />
-      <h1>Product</h1>
+      <h1> PageNotFound</h1>
     </div>
   );
 };
 
-export default Product;
+export default PageNotFound;
