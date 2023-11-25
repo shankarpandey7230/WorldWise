@@ -1,4 +1,4 @@
 import AppNav from './AppNav';
 import PageNav from './PageNav';
-
-export { PageNav, AppNav };
+import Logo from './Logo';
+export { PageNav, AppNav, Logo };
